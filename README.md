@@ -17,10 +17,8 @@ Available tags:
 The following modules have been added:
 
 * [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare)
-* [caddy-dns/desec](https://github.com/caddy-dns/desec)
 * [caddy-dns/duckdns](https://github.com/caddy-dns/duckdns)
-* [caddy-dns/namecheap](https://github.com/caddy-dns/namecheap)
-* [caddy-dns/porkbun](https://github.com/caddy-dns/porkbun)
+* [caddy-dns/desec](https://github.com/caddy-dns/desec)
 * [lucaslorentz/caddy-docker-proxy/v2](https://github.com/lucaslorentz/caddy-docker-proxy/v2)
 * [mholt/caddy-dynamicdns](https://github.com/mholt/caddy-dynamicdns)
 * [dulli/caddy-wol](https://github.com/dulli/caddy-wol)
