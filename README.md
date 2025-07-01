@@ -2,7 +2,7 @@
 
 ## This is nothing more than **[Caddy reverse-proxy](https://github.com/caddyserver/caddy)** with some additional modules.
 
-* Platforms: **`armv6`**, **`armv7`**, **`arm64`** and **`amd64`**
+* Platforms: **`amd64`**, **`arm64/v8`**, **`arm/v7`** and **`arm/v6`**
 
 Image is available at:
 
