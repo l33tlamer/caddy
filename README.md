@@ -5,7 +5,7 @@
 * Platforms: **`armv6`**, **`armv7`**, **`arm64`** and **`amd64`**
 * **Multiarch image**, Docker should automatically pull the correct platform
 * Image is **not auto-built** but built manually triggered only when updates have been done
-* Pull from the **[Docker Hub repo](https://hub.docker.com/r/l33tlamer/caddy)** with **`docker pull docker.io/l33tlamer/caddy:latest`**
+* Pull from the **[Docker Hub repo](https://hub.docker.com/r/l33tlamer/caddy)** with **`docker pull l33tlamer/caddy:latest`**
 
 These modules have been added:
 
