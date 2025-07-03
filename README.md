@@ -26,4 +26,6 @@ The following modules have been added:
 * [porech/caddy-maxmind-geolocation](https://github.com/porech/caddy-maxmind-geolocation)
 * [sjtug/caddy2-filter](https://github.com/sjtug/caddy2-filter)
 
+More info: https://caddyserver.com/docs/build#xcaddy and https://caddyserver.com/download
+
 Enjoy!
