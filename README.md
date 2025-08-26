@@ -11,8 +11,9 @@ Image is available at:
 
 Available tags:
 
+* `2.10.2` Caddy v2.10.2 (August 2025)
 * `2.10.0` Caddy v2.10.0 (April 2025)
-* `latest` equals `2.10.0`
+* `latest` equals `2.10.2`
 
 The following modules have been added:
 
